@@ -1,14 +1,13 @@
 # Project Title
+Building AI course project
 Buy a used car as cheap as possible
 
 ## Summary
 When buying your "new" used car you want it as cheap as possible. This project would be handy to use to make the best descision.
-Building AI course project
+The problem is often to come to a conclusion of what is the most reasonable price to pay for a used car. Some arguments for buying or not buying are very important and some are less important, especially when you put them in relation to each other. This solution would maybe be handy to use.
 
 
 ## Background
-The problem is often to come to a conclusion of what is the most reasonable price to pay for a used car. Some arguments for buying or not buying are very important and some are less important, especially when you put them in relation to each other.
-
 This solution would probably help people that is not good at mathematics or conclusion makings and would be aplicable when ever a used car should be bought.
 The solution would be interesting for those who is about to look after a (for them) new car to buy. And it would probably be an important toll to make it easier to make the final decision - should I buy the car or not. This should motivate anyone that want to do the best deal possible.
 
