@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Used car pricing tool
 
 Building AI course project
 Buy a used car as cheap as possible
