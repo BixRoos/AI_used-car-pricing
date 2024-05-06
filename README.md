@@ -3,6 +3,7 @@ Buy a used car as cheap as possible
 
 ## Summary
 When buying your "new" used car you want it as cheap as possible. This project would be handy to use to make the best descision.
+Building AI course project
 
 
 ## Background
